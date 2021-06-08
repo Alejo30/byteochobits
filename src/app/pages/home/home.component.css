@@ -1,0 +1,36 @@
+.wrapper-main .carousel-inner img{
+    max-height: 70vh;
+    object-fit: cover;
+    filter: grayscale(70%) ;
+    padding-top: 10px;
+}
+
+#carousel {
+    position: relative;
+}
+
+.video {
+    height: 377px;
+    max-height: 70vh;
+    object-fit: cover;
+    padding: 10px;
+}
+
+.about {
+    align-content: center;
+    align-items: center;
+    padding: 24px;
+    text-align: justify;
+}
+
+.carousel-caption {
+    position: absolute;
+    bottom:5px;
+    right:0px;
+    top: 380px;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+
