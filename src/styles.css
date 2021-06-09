@@ -1,4 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
-.text-byte {
+/* .text-byte {
     color: #F0A500 !important; 
+} */
+
+a :active {
+    color: #F0A500;  
+}
+
+ul.navbar-nav li.active {
+    background-color: red;
 }
