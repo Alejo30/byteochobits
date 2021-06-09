@@ -10,7 +10,7 @@
 }
 
 .video {
-    height: 377px;
+    height: 321px;
     max-height: 70vh;
     object-fit: cover;
     padding: 10px;
@@ -32,5 +32,3 @@
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
 }
-
-

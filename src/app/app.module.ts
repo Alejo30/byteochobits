@@ -7,6 +7,10 @@ import { LayoutComponent } from './layout/layout.component';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { SharedModule } from './shared/shared.module';
+import { HomeComponent } from './pages/home/home.component';
+import { ServiceComponent } from './pages/service/service.component';
+import { ContactComponent } from './pages/contact/contact.component';
+import { AboutComponent } from './pages/about/about.component';
 
 
 
@@ -14,6 +18,10 @@ import { SharedModule } from './shared/shared.module';
   declarations: [
     AppComponent,
     LayoutComponent,
+    HomeComponent,
+    ServiceComponent,
+    ContactComponent,
+    AboutComponent,
 
     
   ],
