@@ -5,6 +5,8 @@
     background-color: #1D3566;
 }
 
-#header li.active {
+#header a:hover {
     color: #F0A500; 
 }
+
+
