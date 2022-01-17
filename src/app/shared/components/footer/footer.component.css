@@ -24,3 +24,7 @@
     color: white;
     padding-right: 5px;
 }
+
+#footer a:hover {
+    color: #F0A500; 
+}
